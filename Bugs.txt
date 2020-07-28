@@ -1,0 +1,8 @@
+- Girişte isim kaydetme sorunu.
+
+- Oyunda ki hız(fps) sorunları.
+
+
+
+
+ 
